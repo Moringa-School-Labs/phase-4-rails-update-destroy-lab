@@ -40,8 +40,6 @@ class PlantsController < ApplicationController
 
   end
 
-
-
   private
 
   def plant_params
